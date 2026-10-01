@@ -1,0 +1,425 @@
+{
+ "updated": "2026-10-01",
+ "cats": {
+  "eng": "Engineering",
+  "marketing": "Marketing & Growth",
+  "bd": "BD & Sales",
+  "community": "Community",
+  "design": "Design",
+  "product": "Product",
+  "trading": "Trading & Quant",
+  "ops": "Operations",
+  "exec": "Executive",
+  "other": "Other"
+ },
+ "tags": {
+  "solidity": "Solidity",
+  "smart-contract": "Smart Contract",
+  "rust": "Rust",
+  "golang": "Go / Golang",
+  "typescript": "TypeScript",
+  "react": "React",
+  "python": "Python",
+  "devops": "DevOps & SRE",
+  "security": "Security & Audit",
+  "data": "Data",
+  "ai": "AI & ML",
+  "defi": "DeFi",
+  "community-manager": "Community Manager",
+  "content": "Content",
+  "social-media": "Social Media",
+  "seo": "SEO",
+  "sales": "Sales",
+  "legal": "Legal & Counsel",
+  "recruiter": "Recruiting",
+  "quant": "Quant"
+ },
+ "regions": {
+  "usa": "USA",
+  "europe": "Europe",
+  "asia": "Asia & APAC"
+ },
+ "cities": {
+  "new-york": "New York",
+  "singapore": "Singapore",
+  "san-francisco": "San Francisco",
+  "hong-kong": "Hong Kong",
+  "london": "London",
+  "dubai": "Dubai",
+  "miami": "Miami",
+  "chicago": "Chicago",
+  "toronto": "Toronto",
+  "amsterdam": "Amsterdam",
+  "bangalore": "Bangalore",
+  "paris": "Paris",
+  "berlin": "Berlin",
+  "los-angeles": "Los Angeles",
+  "dublin": "Dublin",
+  "austin": "Austin",
+  "tokyo": "Tokyo",
+  "zurich": "Zurich",
+  "lisbon": "Lisbon",
+  "seoul": "Seoul"
+ },
+ "ecos": {
+  "defi": "DeFi",
+  "nft": "NFT",
+  "l1": "Layer 1",
+  "l2": "Layer 2",
+  "zk": "ZK",
+  "ai": "AI x Crypto",
+  "solana": "Solana",
+  "ethereum": "Ethereum",
+  "cosmos": "Cosmos",
+  "rwa": "RWA",
+  "depin": "DePIN",
+  "mev": "MEV",
+  "gaming": "Web3 Gaming"
+ },
+ "comps": [
+  [
+   "Binance",
+   "binance.com"
+  ],
+  [
+   "Bybit",
+   "bybit.com"
+  ],
+  [
+   "Coinbase",
+   "coinbase.com"
+  ],
+  [
+   "CoinMarketCap",
+   "coinmarketcap.com"
+  ],
+  [
+   "Crypto.com",
+   "crypto.com"
+  ],
+  [
+   "OKX",
+   "okx.com"
+  ],
+  [
+   "Symbiotic",
+   "symbiotic.fi"
+  ],
+  [
+   "TRM Labs",
+   "trmlabs.com"
+  ],
+  [
+   "a16z",
+   "a16z.com"
+  ],
+  [
+   "Animoca Brands",
+   "animocabrands.com"
+  ],
+  [
+   "Ava Labs",
+   "avalabs.org"
+  ]
+ ],
+ "locs": [
+  "Asia",
+  "Abu Dhabi, UAE",
+  "Kuala Lumpur, Malaysia",
+  "Remote - UAE",
+  "Global",
+  "Sofia",
+  "Hong Kong",
+  "Hong Kong, Hong Kong SAR",
+  "Singapore, Singapore",
+  "New York",
+  "United States",
+  "San Francisco, California, United States",
+  "Remote (Global)",
+  "Jordan, Amman"
+ ],
+ "jobs": [
+  {
+   "id": "4145d0ae2500",
+   "t": "Operations Specialist",
+   "c": 0,
+   "l": 0,
+   "r": 0,
+   "k": "ops",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "42af6e7abdb5",
+   "t": "Security Engineer Manager",
+   "c": 0,
+   "l": 0,
+   "r": 0,
+   "k": "eng",
+   "d": "2026-09-30",
+   "tg": [
+    "security"
+   ],
+   "rg": "asia",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "b919667b5292",
+   "t": "P2P Product Manager",
+   "c": 1,
+   "l": 1,
+   "r": 0,
+   "k": "product",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "ct": "dubai",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "b0e193367df1",
+   "t": "Product Manager Expert",
+   "c": 1,
+   "l": 2,
+   "r": 0,
+   "k": "product",
+   "d": "2026-09-30",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "cc730e7d0bd3",
+   "t": "Money Laundering Reporting Officer, ADGM",
+   "c": 2,
+   "l": 3,
+   "r": 1,
+   "k": "ops",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "3ef534b1df1d",
+   "t": "Senior Product Designer - CoinGlass",
+   "c": 3,
+   "l": 4,
+   "r": 0,
+   "k": "design",
+   "d": "2026-09-30",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "2e0140ab73c7",
+   "t": "Financial Crimes Analyst, Bulgaria",
+   "c": 4,
+   "l": 5,
+   "r": 0,
+   "k": "ops",
+   "d": "2026-09-30",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "485b623e9e4c",
+   "t": "Treasury Associate (Data & Automation)",
+   "c": 4,
+   "l": 6,
+   "r": 0,
+   "k": "ops",
+   "d": "2026-09-30",
+   "tg": [
+    "data"
+   ],
+   "rg": "asia",
+   "ct": "hong-kong",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "6dc500292be7",
+   "t": "Product Lead, Growth Platform",
+   "c": 5,
+   "l": 7,
+   "r": 0,
+   "k": "marketing",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "ct": "hong-kong",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "de33f4f334fe",
+   "t": "Product Lead, Growth Platform",
+   "c": 5,
+   "l": 8,
+   "r": 0,
+   "k": "marketing",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "ct": "singapore",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "377595f17281",
+   "t": "Senior Manager / Expert, DeFi Ecosystem Growth",
+   "c": 5,
+   "l": 7,
+   "r": 0,
+   "k": "marketing",
+   "d": "2026-09-30",
+   "tg": [
+    "defi"
+   ],
+   "rg": "asia",
+   "ct": "hong-kong",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "c36502df3a60",
+   "t": "Senior Manager / Expert, DEX Ecosystem Growth",
+   "c": 5,
+   "l": 7,
+   "r": 0,
+   "k": "marketing",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "ct": "hong-kong",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "7b7ad93ca9af",
+   "t": "Senior/Staff Engineer, Liquidity Platform, Structured OTC",
+   "c": 5,
+   "l": 7,
+   "r": 0,
+   "k": "eng",
+   "d": "2026-09-30",
+   "rg": "asia",
+   "ct": "hong-kong",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "a4a842d75945",
+   "t": "Senior Product Designer",
+   "c": 6,
+   "l": 9,
+   "r": 1,
+   "k": "design",
+   "d": "2026-09-30",
+   "e": [
+    "defi"
+   ],
+   "rg": "usa",
+   "ct": "new-york",
+   "sn": "senior"
+  },
+  {
+   "id": "9a02a1e7ab8b",
+   "t": "Account Director, Crypto",
+   "c": 7,
+   "l": 10,
+   "r": 1,
+   "k": "ops",
+   "d": "2026-09-30",
+   "rg": "usa",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "73c588a28f66",
+   "t": "Partner 20, Staff Engineer, Enterprise Security",
+   "c": 8,
+   "l": 11,
+   "r": 0,
+   "k": "eng",
+   "d": "2026-09-29",
+   "tg": [
+    "security"
+   ],
+   "rg": "usa",
+   "ct": "san-francisco",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1,
+   "sy": "$243k\u2013284k",
+   "sk": 284000
+  },
+  {
+   "id": "74ef636c47b1",
+   "t": "Talent Acquisition Specialist - (6-Month Contract)",
+   "c": 9,
+   "l": 6,
+   "r": 0,
+   "k": "ops",
+   "d": "2026-09-29",
+   "tg": [
+    "recruiter"
+   ],
+   "e": [
+    "gaming"
+   ],
+   "rg": "asia",
+   "ct": "hong-kong",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "ab390db3e88f",
+   "t": "Staff Engineer, Developer Infrastructure",
+   "c": 10,
+   "l": 12,
+   "r": 1,
+   "k": "eng",
+   "d": "2026-09-29",
+   "e": [
+    "l1"
+   ],
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1,
+   "sy": "$253k\u2013317k",
+   "sk": 316849
+  },
+  {
+   "id": "90b7360da3da",
+   "t": "Clearing Specialist",
+   "c": 0,
+   "l": 13,
+   "r": 0,
+   "k": "ops",
+   "d": "2026-09-29",
+   "nw": 1,
+   "nd": 1
+  },
+  {
+   "id": "ab99b56f0acc",
+   "t": "Global Crypto-as-a-Service Partnership-  Senior Specialist",
+   "c": 0,
+   "l": 6,
+   "r": 0,
+   "k": "bd",
+   "d": "2026-09-29",
+   "rg": "asia",
+   "ct": "hong-kong",
+   "sn": "senior",
+   "nw": 1,
+   "nd": 1
+  }
+ ]
+}
